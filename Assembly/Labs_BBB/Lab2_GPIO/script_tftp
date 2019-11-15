@@ -1,0 +1,2 @@
+set app "set ipaddr 10.0.0.2; set serverip 10.0.0.1; tftp 0x80800000 /tftpboot/gpio.bin; go 0x80800000"
+
